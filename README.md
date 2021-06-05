@@ -36,11 +36,25 @@ Leia o post no www.dadoslivres.blog e acompanhe as futuras publicações para fi
 
 Atualmente estou trabalhando nas seguintes atualizações:
 
+    Reconhecimento simples de padrões no texto:
+    
+        Cada time publica os eventos a cada momento utilizando grafias diferentes de texto. Conseguir
+        identificar um padrão que permita a extração de cada evento permitirá classificar cada um 
+        desses eventos para melhorar a experiência das emoções segundo cada evento identificado.
+        
+        Categorização de determinadas palavras-chave para experimentação em visualizações como WordClouds
+        e TextBubbles. Por exemplo: identificar palavrões, nomes de jogadores e técnicos e experimentar as
+        WordClouds com e sem essas palavras, assim como visualizações específicas para esses grupos de
+        palavras.
+        
     Automatização:
+    
         Cadastro das demais rodadas e seleção automática dos jogos a partir da data de execução do código
         Geração de dois tipos de imagens no Google Drive, via api: thumbnails e aumentada
         Criação do código HTML para a tabela na página de galeria de Wordclouds com as imagens e links 
         para as versões aumentadas, o que permitirá a atualização a cada rodada ser um simples copy e paste. 
 
     Visualização:
+    
         Criação de colormaps melhores para as letras não ficarem tão claras
+        Text Bubbles no Tableau
