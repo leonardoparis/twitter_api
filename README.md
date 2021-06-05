@@ -20,7 +20,9 @@ Fique à vontade para copiar, utilizar e melhorar o código. Para executá-lo, v
 
 Leia o post no www.dadoslivres.blog e acompanhe as futuras publicações para ficar por dentro do Projeto:
 
-    Introdução (http://www.dadoslivres.blog/2021/06/um-futebol-de-emocoes-wordclouds-em.html)
+    Introdução 
+    >> http://www.dadoslivres.blog/2021/06/um-futebol-de-emocoes-wordclouds-em.html
+    
     Google Drive+Colab
     A Estrutura de um Tweet
     Transmissões de Futebol no Twitter
