@@ -1,7 +1,8 @@
 # umfuteboldeemocoes
 Desenvolvi o projeto Um Futebol de Emoções para estudar análise de textos e sentimentos em Python e compartilhar os resultados com a comunidade. É também um laboratório de experimentos em visualizações de texto e oportunidade de aprender o Git.
 
-Fique à vontade para copiar, utilizar e melhorar o código. Para executá-lo, você precisará de:
+Fique à vontade para copiar, utilizar e melhorar o código (me conte o que fez no https://www.linkedin.com/in/leonardo-paris-b2b99927/). 
+Para executá-lo, você precisará de:
 
     Uma conta google com Drive e Colab ativados
     
