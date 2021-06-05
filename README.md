@@ -7,8 +7,8 @@ Fique à vontade para copiar, utilizar e melhorar o código. Para executá-lo, v
     
     Arquivos csv disponibilizados aqui lá no Drive:
     
-        times_do_brasileirao.csv - arquivo com as informações do jogo de cada time na primeira rodada com campos 
-        nome do time, perfil do Twitter,data e hora de início e fim de cada jogo
+        times_do_brasileirao.csv - arquivo com as informações do jogo de cada time na primeira rodada com 
+        campos: nome do time, perfil do Twitter,data e hora de início e fim de cada jogo
 
         times_do_brasileirao-cores.csv - arquivo com o nome do time e o código do colormap para desenhar os 
         wordclouds personalizados para cada time
