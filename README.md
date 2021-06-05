@@ -42,6 +42,10 @@ Atualmente estou trabalhando nas seguintes atualizações:
         Embora o Athletico Paranaense tenha transmitido a partida na primeira rodada e o python tenha
         recuperado esses tweets, quando busquei as respostas o conteúdo do JSON foi result_count: 0. É
         necessário entender porquê.
+                
+    Enriquecimento de base:
+    
+        Persistir a variável de criação dos tweets até a base final.
         
     Reconhecimento simples de padrões no texto:
     
