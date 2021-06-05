@@ -36,7 +36,13 @@ Leia o post no www.dadoslivres.blog e acompanhe as futuras publicações para fi
     Modelos
 
 Atualmente estou trabalhando nas seguintes atualizações:
-
+    
+    Minimização do erro na extração dos Tweets:
+    
+        Embora o Athletico Paranaense tenha transmitido a partida na primeira rodada e o python tenha
+        recuperado esses tweets, quando busquei as respostas o conteúdo do JSON foi result_count: 0. É
+        necessário entender porquê.
+        
     Reconhecimento simples de padrões no texto:
     
         Cada time publica os eventos a cada momento utilizando grafias diferentes de texto. Conseguir
