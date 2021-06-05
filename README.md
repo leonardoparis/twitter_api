@@ -61,7 +61,9 @@ Atualmente estou trabalhando nas seguintes atualizações:
     Automatização:
     
         Cadastro das demais rodadas e seleção automática dos jogos a partir da data de execução do código
+        
         Geração de dois tipos de imagens no Google Drive, via api: thumbnails e aumentada
+        
         Criação do código HTML para a tabela na página de galeria de Wordclouds com as imagens e links 
         para as versões aumentadas, o que permitirá a atualização a cada rodada ser um simples copy e paste. 
 
