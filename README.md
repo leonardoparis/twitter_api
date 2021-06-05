@@ -13,7 +13,9 @@ Fique à vontade para copiar, utilizar e melhorar o código. Para executá-lo, v
         times_do_brasileirao-cores.csv - arquivo com o nome do time e o código do colormap para desenhar os 
         wordclouds personalizados para cada time
     
-    Uma conta de desenvolvedor no Twitter para Desenvolvedores:
+    Uma conta de desenvolvedor no Twitter para Desenvolvedores: caso tente executar o código python 
+    disponibilizado sem os CÓDIGOS PESSOAIS NECESSÁRIOS que você receberá na sua conta, dará erro.
+    
     https://developer.twitter.com/en/apply/user.html
 
 Leia o post no www.dadoslivres.blog e acompanhe as futuras publicações para ficar por dentro do Projeto:
